@@ -1,0 +1,5 @@
+dependencies:
+  - ipykernel
+  - black
+  - pip:
+      - papermill
